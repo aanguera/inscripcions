@@ -6,7 +6,7 @@
    
    <body>
 		<h2>Inscripcions Hivernal del Bages 2017</h2>
-		<form action="pas2.php" method="post">
+		<form action="pas_check.php" method="post">
 		<fieldset>
 			<legend>Dades personals</legend>
 			<p><label>Non: <input type="text" name="nom" size="30" maxlength="50"> </label></p>
